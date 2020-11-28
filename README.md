@@ -2,7 +2,7 @@
 
 ## Objectives ##
 
-#### WeatherPy ####
+### WeatherPy ###
 
 Create a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator, utilizing CitiPy and the OpenWeatherMap API.
 Create a series of scatter plots to showcase the following relationships:
@@ -25,7 +25,7 @@ Run a linear regression on each relationship, separating them into Northern Hemi
   - The retrieved data is stored in output_data.csv
   - the scatter plots can be found in the images folder as well as in the WeatherPy notebook with included commentary on possible linear relationships.
 
-#### VacationPy ####
+### VacationPy ###
 
 1. Create a heat map that displays the humidity for every city from the part I (WeatherPy).
 2. Narrow down the DataFrame to find your ideal weather condition.
