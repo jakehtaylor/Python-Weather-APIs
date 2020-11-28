@@ -34,5 +34,6 @@ Run a linear regression on each relationship, separating them into Northern Hemi
 
 All of these steps are executed within the VacationPy notebook. 
 
-#### Important! ####
+## Important! ##
+
 To run the code, you will need all of the dependencies installed, as well as a key for the OpenWeatherMaps and Google gmaps APIs. Additionally, you will need to input these keys into the `w_api` and `g_api` variables in the config.py file in each folder.
