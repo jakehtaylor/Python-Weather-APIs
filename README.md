@@ -18,7 +18,7 @@ I then ran a linear regression on each relationship, separating them into Northe
 - ...
 - Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
-<img src="WeatherPy/images/South_Lat_Hum.png" alt="scatter plot">
+<img src="WeatherPy/images/South_Lat_Win.png" alt="scatter plot">
 
 The retrieved data is stored in output_data.csv, and the scatter plots can be found in the images folder as well as in the WeatherPy notebook with included commentary on possible linear relationships.
 
