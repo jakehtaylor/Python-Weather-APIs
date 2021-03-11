@@ -2,7 +2,7 @@
 
 ### WeatherPy ###
 
-I Created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator, utilizing CitiPy and the OpenWeatherMap API, and turned this data into a series of scatter plots:
+I Created a Python script to visualize the weather of 600+ cities across the world of varying distance from the equator, utilizing CitiPy and the OpenWeatherMap API, and turned this data into a series of scatter plots:
 
 - Temperature (F) vs. Latitude
 - Humidity (%) vs. Latitude
